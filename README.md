@@ -9,7 +9,7 @@
 
 # My Contributions
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+
 
 # Visitor Counter
 <div align="center">
