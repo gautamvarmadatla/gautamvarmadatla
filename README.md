@@ -20,7 +20,5 @@
 # My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamvarmadatla&layout=compact&theme=dark)
 
-# My Contributions
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
 
