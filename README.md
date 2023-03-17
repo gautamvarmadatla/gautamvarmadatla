@@ -17,8 +17,9 @@
 # My GitHub Stats
 ![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamvarmadatla&count_private=true&show_icons=true&theme=dark)
 
-# My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamvarmadatla&layout=compact&theme=dark)
+# Languages Used in My Repositories
+```markdown
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=10&layout=compact&theme=dark&hide=html,css)
 
 
 
