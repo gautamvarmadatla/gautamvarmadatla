@@ -1,5 +1,5 @@
-# My Social Media Profile and portfolio
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([http://www.linkedin.com/in/gautamvarmadatla](https://www.linkedin.com/in/gautam-varma-datla-38580a218/)) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gautam-varma-datla-38580a218/)
+
 
 # Visitor Counter
 <div align="center">
