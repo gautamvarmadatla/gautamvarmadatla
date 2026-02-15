@@ -9,7 +9,7 @@
 
 <p align="center">
   🎓 <b>MSc Data Science (NJIT)</b> • <b>Data Scientist @ Strategic Education, Inc.</b><br/>
-  I build data-driven systems, agentic workflows and LLM governance tooling - turning policy into executable rules, tests, and guardrails.
+  I build data-driven systems, agentic workflows, ML models and LLM governance tooling 
 </p>
 
 <p align="center">
