@@ -7,6 +7,7 @@
 </p>
 
 
+
 <p align="center">
   🎓 <b>MSc Data Science (NJIT)</b> • <b>Data Scientist @ Strategic Education, Inc.</b><br/>
   I build data-driven systems, agentic workflows, ML models and LLM governance tooling 
