@@ -35,11 +35,11 @@ I'm a Data Scientist building scalable and transparent predictive models for bus
 
 ## 📄 Publications
 - <b>Executable Governance for AI: Translating Policies into Rules Using LLMs</b>
-  <a href="https://arxiv.org/abs/2512.04408">arXiv:2512.04408</a>
+  <a href="https://openreview.net/forum?id=wi7ErtsbwL">AAAI 26 workshop on AI governance</a>
 - <b>Polypersona: Persona-Grounded LLM for Synthetic Survey Responses</b>
-  <a href="https://arxiv.org/abs/2512.14562">arXiv:2512.14562</a>
+  <a href="https://ieeexplore.ieee.org/document/11401484"> 2025 IEEE International Conference on Big Data </a>
 - <b>Residual GRU+MHSA: A Lightweight Hybrid Recurrent Attention Model for Cardiovascular Disease Detection</b>
-  <a href="https://arxiv.org/abs/2512.14563">arXiv:2512.14563</a>
+  <a href="https://ieeexplore.ieee.org/document/11400958"> 2025 IEEE International Conference on Big Data </a>
 - <b>An Interpretable LSTM Network for Solar Flare Prediction</b>
   <a href="https://doi.org/10.1109/ICTAI59109.2023.00084">DOI:10.1109/ICTAI59109.2023.00084</a>
 <br clear="both" />
