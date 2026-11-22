@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>MSc Data Science (NJIT)</b> • <b>Data Scientist @ Strategic Education, Inc.</b><br/>
+  🎓 <b>MSc Data Science (NJIT)</b> • <b>AI Work Redesign Engineer @ Strategic Education, Inc.</b><br/>
   I build data-driven systems, agentic workflows, ML models and LLM governance tooling 
 </p>
 
@@ -26,7 +26,7 @@
 
 ## 🔹 About Me
 
-I'm a Data Scientist building scalable and transparent predictive models for business growth. Open to work, research and open-source collaborations!
+I'm an AI Work Redesign Engineer building scalable and transparent predictive models for business growth. Open to work, research and open-source collaborations!
 
 - 🧩 Research interests : AI safety ( mechanistic interpretability, alignment, unlearning & policy )
 
